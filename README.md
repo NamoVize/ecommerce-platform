@@ -20,6 +20,13 @@ A full-featured e-commerce platform with payment integration (Stripe/PayPal), in
 - **Authentication**: JWT
 - **Payment Processing**: Stripe, PayPal
 
+## Images
+![image](https://github.com/user-attachments/assets/f7a2693c-23e2-4721-b66b-9b1d434c0661)
+![image](https://github.com/user-attachments/assets/4d0d89d4-673b-415a-b3bb-5a185251f5e0)
+![image](https://github.com/user-attachments/assets/7ee03ad9-dba0-4997-8947-6e74c315c4ea)
+
+
+
 ## Setup Instructions
 
 ### Prerequisites
